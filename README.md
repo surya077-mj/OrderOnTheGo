@@ -1,8 +1,4 @@
- 🍽️ OrderOnTheGo – Your Smart Food Ordering Companion
-
-**Live Site**: [orderonthegoo.netlify.app](https://orderonthegoo.netlify.app/)  
-**Status**: ✅ Live and Responsive  
-**Hosted on**: Netlify
+ 
 
 ---
 
